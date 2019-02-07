@@ -4,12 +4,16 @@
 \usepackage[russian]{babel}
 \usepackage[left=3cm, right=2.5cm, top=2cm, bottom=2cm]{geometry}
 \usepackage{graphicx}
-\usepackage{indentfirst}
+\usepackage{indentfirst} %indent first par
 \usepackage{hyperref}
-\usepackage[font=Large,labelfont=it,justification=centering]{caption}
-\usepackage{float}
+\usepackage[font=Large,labelfont=it,justification=centering]{caption} %for customize caption
+\usepackage{float} %for figure position
 
-\usepackage{pscyr}
+\usepackage{enumitem} %for list customization
+\setlist[itemize]{leftmargin=2cm,labelsep=0.5cm}
+\setlist[enumerate]{leftmargin=1.5cm}
+
+\usepackage{pscyr} %russian fonts
 \renewcommand{\rmdefault}{ftm}
 \graphicspath{ {./images/} }
 
@@ -24,6 +28,8 @@
 \titleformat*{\subsubsection}{\large\bfseries}
 \titleformat*{\paragraph}{\large\bfseries}
 \titleformat*{\subparagraph}{\large\bfseries}
+
+%\sloppy разряженные строки с автопереносом
 
 \begin{document}
 	\include{description} %год протокола неверный!!!
