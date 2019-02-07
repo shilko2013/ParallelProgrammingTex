@@ -4,6 +4,11 @@
 \usepackage[russian]{babel}
 \usepackage[left=3cm, right=2.5cm, top=2cm, bottom=2cm]{geometry}
 \usepackage{graphicx}
+\usepackage{indentfirst}
+\usepackage{hyperref}
+\usepackage[font=Large,labelfont=it,justification=centering]{caption}
+\usepackage{float}
+
 \usepackage{pscyr}
 \renewcommand{\rmdefault}{ftm}
 \graphicspath{ {./images/} }
@@ -12,8 +17,17 @@
 \parindent=1.5cm
 %\linespread{1.3}
 
+
+\usepackage{titlesec}
+\titleformat*{\section}{\LARGE\bfseries}
+\titleformat*{\subsection}{\Large\bfseries}
+\titleformat*{\subsubsection}{\large\bfseries}
+\titleformat*{\paragraph}{\large\bfseries}
+\titleformat*{\subparagraph}{\large\bfseries}
+
 \begin{document}
 	\include{description} %год протокола неверный!!!
 	\include{tableOfContents} %empty!!!
 	\include{introduction}
+	\include{section1}
 \end{document}
