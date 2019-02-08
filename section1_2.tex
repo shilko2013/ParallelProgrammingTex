@@ -16,7 +16,7 @@
 	\parПриведём примеры того, как с-программа в файле src.c может быть автоматически распараллелена при использовании некоторых популярных компиляторов:
 	\begin{itemize}
 		\itemКомпилятор GNU Compiler Collection:	 
-gcc -O2 -floop-parallelize-all -ftree-parallelize-loops=K -fdump-tree-parloops-details src.c. При этом программисту даётся возможность выбрать значение параметра K, который рекомендуется устанавливать равным количеству ядер (процессоров). Особенностям реализации автораспараллеливания в gcc посвящён самостоятельный проект:\\ https://gcc.gnu.org/wiki/AutoParInGCC. 
+gcc -O2 -floop-parallelize-all -ftree-parallelize-loops=K -fdump-tree-parloops-details src.c. При этом программисту даётся возможность выбрать значение параметра K, который рекомендуется устанавливать равным количеству ядер (процессоров). Особенностям реализации автораспараллеливания в gcc посвящён самостоятельный проект:\\ \url{https://gcc.gnu.org/wiki/AutoParInGCC}. 
 		\itemКомпилятор фирмы Intel:	 
 icc -c -parallel -par-report file.cc
 		\itemКомпилятор фирмы Oracle:	 
