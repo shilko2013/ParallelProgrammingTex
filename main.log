@@ -1,0 +1,1232 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.6960 64-bit) (preloaded format=pdflatex 2019.2.5)  9 FEB 2019 08:17
+entering extended mode
+**"C:/РџР°СЂР°Р»Р»РµР»СЊРЅС‹Рµ/РќРѕРІР°СЏ РјРµС‚РѕРґРёС‡РєР°/main.tex"
+("C:/РџР°СЂР°Р»Р»РµР»СЊРЅС‹Рµ/РќРѕРІР°СЏ РјРµС‚РѕРґРёС‡РєР°/main.tex"
+LaTeX2e <2018-12-01>
+("C:\Users\shilk\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\article.cls"
+Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
+("C:\Users\shilk\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size10.clo"
+File: size10.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) ("C:\Users\shilk\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\inputenc.st
+y"
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+)
+("C:\Users\shilk\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.sty"
+Package: babel 2018/11/13 3.27 The Babel package
+("C:\Users\shilk\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\switch.def
+"
+File: switch.def 2018/11/13 3.27 Babel switching mechanism
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Users\shilk\AppData\Local\Programs\MiKTeX 2.9\tex/latex/arabi\bblopts.cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("C:\Users\shilk\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-russian\russ
+ianb.ldf"
+Language: russian 2017/08/12 1.3j Russian support for the Babel system
+
+("C:\Users\shilk\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.def"
+File: babel.def 2018/11/13 3.27 Babel common definitions
+\babel@savecnt=\count88
+\U@D=\dimen103
+
+("C:\Users\shilk\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\txtbabel.d
+ef")
+\bbl@dirlevel=\count89
+)
+
+Package babel Warning: No Cyrillic font encoding has been loaded so far.
+(babel)                A font encoding should be declared before babel.
+(babel)                Default `T2A' encoding will be loaded  on input line 74.
+
+
+
+("C:\Users\shilk\AppData\Local\Programs\MiKTeX 2.9\tex/latex/cyrillic\t2aenc.de
+f"
+File: t2aenc.def 2005/09/27 v1.0i Cyrillic encoding definition file
+Now handling font encoding T2A ...
+... processing UTF-8 mapping file for font encoding T2A
+ ("C:\Users\shilk\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\t2aenc.dfu"
+File: t2aenc.dfu 2018/10/05 v1.2f UTF-8 support for inputenc
+   defining Unicode char U+00A4 (decimal 164)
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0237 (decimal 567)
+   defining Unicode char U+0400 (decimal 1024)
+   defining Unicode char U+0401 (decimal 1025)
+   defining Unicode char U+0402 (decimal 1026)
+   defining Unicode char U+0403 (decimal 1027)
+   defining Unicode char U+0404 (decimal 1028)
+   defining Unicode char U+0405 (decimal 1029)
+   defining Unicode char U+0406 (decimal 1030)
+   defining Unicode char U+0407 (decimal 1031)
+   defining Unicode char U+0408 (decimal 1032)
+   defining Unicode char U+0409 (decimal 1033)
+   defining Unicode char U+040A (decimal 1034)
+   defining Unicode char U+040B (decimal 1035)
+   defining Unicode char U+040C (decimal 1036)
+   defining Unicode char U+040D (decimal 1037)
+   defining Unicode char U+040E (decimal 1038)
+   defining Unicode char U+040F (decimal 1039)
+   defining Unicode char U+0410 (decimal 1040)
+   defining Unicode char U+0411 (decimal 1041)
+   defining Unicode char U+0412 (decimal 1042)
+   defining Unicode char U+0413 (decimal 1043)
+   defining Unicode char U+0414 (decimal 1044)
+   defining Unicode char U+0415 (decimal 1045)
+   defining Unicode char U+0416 (decimal 1046)
+   defining Unicode char U+0417 (decimal 1047)
+   defining Unicode char U+0418 (decimal 1048)
+   defining Unicode char U+0419 (decimal 1049)
+   defining Unicode char U+041A (decimal 1050)
+   defining Unicode char U+041B (decimal 1051)
+   defining Unicode char U+041C (decimal 1052)
+   defining Unicode char U+041D (decimal 1053)
+   defining Unicode char U+041E (decimal 1054)
+   defining Unicode char U+041F (decimal 1055)
+   defining Unicode char U+0420 (decimal 1056)
+   defining Unicode char U+0421 (decimal 1057)
+   defining Unicode char U+0422 (decimal 1058)
+   defining Unicode char U+0423 (decimal 1059)
+   defining Unicode char U+0424 (decimal 1060)
+   defining Unicode char U+0425 (decimal 1061)
+   defining Unicode char U+0426 (decimal 1062)
+   defining Unicode char U+0427 (decimal 1063)
+   defining Unicode char U+0428 (decimal 1064)
+   defining Unicode char U+0429 (decimal 1065)
+   defining Unicode char U+042A (decimal 1066)
+   defining Unicode char U+042B (decimal 1067)
+   defining Unicode char U+042C (decimal 1068)
+   defining Unicode char U+042D (decimal 1069)
+   defining Unicode char U+042E (decimal 1070)
+   defining Unicode char U+042F (decimal 1071)
+   defining Unicode char U+0430 (decimal 1072)
+   defining Unicode char U+0431 (decimal 1073)
+   defining Unicode char U+0432 (decimal 1074)
+   defining Unicode char U+0433 (decimal 1075)
+   defining Unicode char U+0434 (decimal 1076)
+   defining Unicode char U+0435 (decimal 1077)
+   defining Unicode char U+0436 (decimal 1078)
+   defining Unicode char U+0437 (decimal 1079)
+   defining Unicode char U+0438 (decimal 1080)
+   defining Unicode char U+0439 (decimal 1081)
+   defining Unicode char U+043A (decimal 1082)
+   defining Unicode char U+043B (decimal 1083)
+   defining Unicode char U+043C (decimal 1084)
+   defining Unicode char U+043D (decimal 1085)
+   defining Unicode char U+043E (decimal 1086)
+   defining Unicode char U+043F (decimal 1087)
+   defining Unicode char U+0440 (decimal 1088)
+   defining Unicode char U+0441 (decimal 1089)
+   defining Unicode char U+0442 (decimal 1090)
+   defining Unicode char U+0443 (decimal 1091)
+   defining Unicode char U+0444 (decimal 1092)
+   defining Unicode char U+0445 (decimal 1093)
+   defining Unicode char U+0446 (decimal 1094)
+   defining Unicode char U+0447 (decimal 1095)
+   defining Unicode char U+0448 (decimal 1096)
+   defining Unicode char U+0449 (decimal 1097)
+   defining Unicode char U+044A (decimal 1098)
+   defining Unicode char U+044B (decimal 1099)
+   defining Unicode char U+044C (decimal 1100)
+   defining Unicode char U+044D (decimal 1101)
+   defining Unicode char U+044E (decimal 1102)
+   defining Unicode char U+044F (decimal 1103)
+   defining Unicode char U+0450 (decimal 1104)
+   defining Unicode char U+0451 (decimal 1105)
+   defining Unicode char U+0452 (decimal 1106)
+   defining Unicode char U+0453 (decimal 1107)
+   defining Unicode char U+0454 (decimal 1108)
+   defining Unicode char U+0455 (decimal 1109)
+   defining Unicode char U+0456 (decimal 1110)
+   defining Unicode char U+0457 (decimal 1111)
+   defining Unicode char U+0458 (decimal 1112)
+   defining Unicode char U+0459 (decimal 1113)
+   defining Unicode char U+045A (decimal 1114)
+   defining Unicode char U+045B (decimal 1115)
+   defining Unicode char U+045C (decimal 1116)
+   defining Unicode char U+045D (decimal 1117)
+   defining Unicode char U+045E (decimal 1118)
+   defining Unicode char U+045F (decimal 1119)
+   defining Unicode char U+0490 (decimal 1168)
+   defining Unicode char U+0491 (decimal 1169)
+   defining Unicode char U+0492 (decimal 1170)
+   defining Unicode char U+0493 (decimal 1171)
+   defining Unicode char U+0496 (decimal 1174)
+   defining Unicode char U+0497 (decimal 1175)
+   defining Unicode char U+0498 (decimal 1176)
+   defining Unicode char U+0499 (decimal 1177)
+   defining Unicode char U+049A (decimal 1178)
+   defining Unicode char U+049B (decimal 1179)
+   defining Unicode char U+049C (decimal 1180)
+   defining Unicode char U+049D (decimal 1181)
+   defining Unicode char U+04A0 (decimal 1184)
+   defining Unicode char U+04A1 (decimal 1185)
+   defining Unicode char U+04A2 (decimal 1186)
+   defining Unicode char U+04A3 (decimal 1187)
+   defining Unicode char U+04A4 (decimal 1188)
+   defining Unicode char U+04A5 (decimal 1189)
+   defining Unicode char U+04AA (decimal 1194)
+   defining Unicode char U+04AB (decimal 1195)
+   defining Unicode char U+04AE (decimal 1198)
+   defining Unicode char U+04AF (decimal 1199)
+   defining Unicode char U+04B0 (decimal 1200)
+   defining Unicode char U+04B1 (decimal 1201)
+   defining Unicode char U+04B2 (decimal 1202)
+   defining Unicode char U+04B3 (decimal 1203)
+   defining Unicode char U+04B6 (decimal 1206)
+   defining Unicode char U+04B7 (decimal 1207)
+   defining Unicode char U+04B8 (decimal 1208)
+   defining Unicode char U+04B9 (decimal 1209)
+   defining Unicode char U+04BA (decimal 1210)
+   defining Unicode char U+04BB (decimal 1211)
+   defining Unicode char U+04C0 (decimal 1216)
+   defining Unicode char U+04C1 (decimal 1217)
+   defining Unicode char U+04C2 (decimal 1218)
+   defining Unicode char U+04D0 (decimal 1232)
+   defining Unicode char U+04D1 (decimal 1233)
+   defining Unicode char U+04D2 (decimal 1234)
+   defining Unicode char U+04D3 (decimal 1235)
+   defining Unicode char U+04D4 (decimal 1236)
+   defining Unicode char U+04D5 (decimal 1237)
+   defining Unicode char U+04D6 (decimal 1238)
+   defining Unicode char U+04D7 (decimal 1239)
+   defining Unicode char U+04D8 (decimal 1240)
+   defining Unicode char U+04D9 (decimal 1241)
+   defining Unicode char U+04DA (decimal 1242)
+   defining Unicode char U+04DB (decimal 1243)
+   defining Unicode char U+04DC (decimal 1244)
+   defining Unicode char U+04DD (decimal 1245)
+   defining Unicode char U+04DE (decimal 1246)
+   defining Unicode char U+04DF (decimal 1247)
+   defining Unicode char U+04E2 (decimal 1250)
+   defining Unicode char U+04E3 (decimal 1251)
+   defining Unicode char U+04E4 (decimal 1252)
+   defining Unicode char U+04E5 (decimal 1253)
+   defining Unicode char U+04E6 (decimal 1254)
+   defining Unicode char U+04E7 (decimal 1255)
+   defining Unicode char U+04E8 (decimal 1256)
+   defining Unicode char U+04E9 (decimal 1257)
+   defining Unicode char U+04EC (decimal 1260)
+   defining Unicode char U+04ED (decimal 1261)
+   defining Unicode char U+04EE (decimal 1262)
+   defining Unicode char U+04EF (decimal 1263)
+   defining Unicode char U+04F0 (decimal 1264)
+   defining Unicode char U+04F1 (decimal 1265)
+   defining Unicode char U+04F2 (decimal 1266)
+   defining Unicode char U+04F3 (decimal 1267)
+   defining Unicode char U+04F4 (decimal 1268)
+   defining Unicode char U+04F5 (decimal 1269)
+   defining Unicode char U+04F8 (decimal 1272)
+   defining Unicode char U+04F9 (decimal 1273)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2116 (decimal 8470)
+   defining Unicode char U+2329 (decimal 9001)
+   defining Unicode char U+232A (decimal 9002)
+   defining Unicode char U+2423 (decimal 9251)
+))
+Package babel Info: Making " an active character on input line 120.
+Package babel Info: Default for \cyrdash is provided on input line 157.
+))
+("C:\Users\shilk\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry.
+sty"
+Package: geometry 2018/04/16 v5.8 Page Geometry
+
+("C:\Users\shilk\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.st
+y"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+("C:\Users\shilk\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifpdf.s
+ty"
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+("C:\Users\shilk\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifvtex.
+sty"
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Users\shilk\AppData\Local\Programs\MiKTeX 2.9\tex/generic/ifxetex\ifxetex.
+sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count90
+\Gm@cntv=\count91
+\c@Gm@tempcnt=\count92
+\Gm@bindingoffset=\dimen104
+\Gm@wd@mp=\dimen105
+\Gm@odd@mp=\dimen106
+\Gm@even@mp=\dimen107
+\Gm@layoutwidth=\dimen108
+\Gm@layoutheight=\dimen109
+\Gm@layouthoffset=\dimen110
+\Gm@layoutvoffset=\dimen111
+\Gm@dimlist=\toks17
+
+("C:\Users\shilk\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry.
+cfg"))
+("C:\Users\shilk\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx.
+sty"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\shilk\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics.
+sty"
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\shilk\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\shilk\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\graph
+ics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Users\shilk\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdfte
+x.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen112
+\Gin@req@width=\dimen113
+)
+("C:\Users\shilk\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\indentfirst.
+sty"
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+("C:\Users\shilk\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hyperref.
+sty"
+Package: hyperref 2018/11/30 v6.88e Hypertext links for LaTeX
+
+("C:\Users\shilk\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\hobsub-
+hyperref.sty"
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+("C:\Users\shilk\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\hobsub-
+generic.sty"
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+("C:\Users\shilk\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\auxhook.s
+ty"
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+("C:\Users\shilk\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvoptions
+.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen114
+\Hy@linkcounter=\count93
+\Hy@pagecounter=\count94
+
+("C:\Users\shilk\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\pd1enc.de
+f"
+File: pd1enc.def 2018/11/30 v6.88e Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+\Hy@SavedSpaceFactor=\count95
+Package hyperref Info: Option `unicode' set `true' on input line 3475.
+
+("C:\Users\shilk\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\puenc.def
+"
+File: puenc.def 2018/11/30 v6.88e Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+("C:\Users\shilk\AppData\Local\Programs\MiKTeX 2.9\tex/latex/00miktex\hyperref.
+cfg"
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4519.
+Package hyperref Info: Link nesting OFF on input line 4524.
+Package hyperref Info: Hyper index ON on input line 4527.
+Package hyperref Info: Plain pages OFF on input line 4534.
+Package hyperref Info: Backreferencing OFF on input line 4539.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4772.
+\c@Hy@tempcnt=\count96
+ ("C:\Users\shilk\AppData\Local\Programs\MiKTeX 2.9\tex/latex/url\url.sty"
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5125.
+\XeTeXLinkMargin=\dimen115
+\Fld@menulength=\count97
+\Field@Width=\dimen116
+\Fld@charsize=\dimen117
+Package hyperref Info: Hyper figures OFF on input line 6380.
+Package hyperref Info: Link nesting OFF on input line 6385.
+Package hyperref Info: Hyper index ON on input line 6388.
+Package hyperref Info: backreferencing OFF on input line 6395.
+Package hyperref Info: Link coloring OFF on input line 6400.
+Package hyperref Info: Link coloring with OCG OFF on input line 6405.
+Package hyperref Info: PDF/A mode OFF on input line 6410.
+LaTeX Info: Redefining \ref on input line 6450.
+LaTeX Info: Redefining \pageref on input line 6454.
+\Hy@abspage=\count98
+\c@Item=\count99
+\c@Hfootnote=\count100
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+("C:\Users\shilk\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hpdftex.d
+ef"
+File: hpdftex.def 2018/11/30 v6.88e Hyperref driver for pdfTeX
+\Fld@listcount=\count101
+\c@bookmark@seq@number=\count102
+
+("C:\Users\shilk\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\rerunfile
+check.sty"
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip43
+)
+("C:\Users\shilk\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\caption.st
+y"
+Package: caption 2018/10/06 v3.3-154 Customizing captions (AR)
+
+("C:\Users\shilk\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\caption3.s
+ty"
+Package: caption3 2018/09/12 v1.8c caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 64.
+\captionmargin=\dimen118
+\captionmargin@=\dimen119
+\captionwidth=\dimen120
+\caption@tempdima=\dimen121
+\caption@indent=\dimen122
+\caption@parindent=\dimen123
+\caption@hangindent=\dimen124
+)
+\c@caption@flags=\count103
+\c@ContinuedFloat=\count104
+Package caption Info: hyperref package is loaded.
+)
+("C:\Users\shilk\AppData\Local\Programs\MiKTeX 2.9\tex/latex/float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count105
+\float@exts=\toks18
+\float@box=\box27
+\@float@everytoks=\toks19
+\@floatcapt=\box28
+)
+("C:\Users\shilk\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsmath.st
+y"
+Package: amsmath 2018/12/01 v2.17b AMS math features
+\@mathmargin=\skip44
+
+For additional information on amsmath, use the `?' option.
+
+("C:\Users\shilk\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amstext.st
+y"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Users\shilk\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsgen.sty
+"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks20
+\ex@=\dimen125
+))
+("C:\Users\shilk\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsbsy.sty
+"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen126
+)
+("C:\Users\shilk\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsopn.sty
+"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count106
+LaTeX Info: Redefining \frac on input line 223.
+\uproot@=\count107
+\leftroot@=\count108
+LaTeX Info: Redefining \overline on input line 385.
+\classnum@=\count109
+\DOTSCASE@=\count110
+LaTeX Info: Redefining \ldots on input line 482.
+LaTeX Info: Redefining \dots on input line 485.
+LaTeX Info: Redefining \cdots on input line 606.
+\Mathstrutbox@=\box29
+\strutbox@=\box30
+\big@size=\dimen127
+LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
+\macc@depth=\count111
+\c@MaxMatrixCols=\count112
+\dotsspace@=\muskip11
+\c@parentequation=\count113
+\dspbrk@lvl=\count114
+\tag@help=\toks21
+\row@=\count115
+\column@=\count116
+\maxfields@=\count117
+\andhelp@=\toks22
+\eqnshift@=\dimen128
+\alignsep@=\dimen129
+\tagshift@=\dimen130
+\tagwidth@=\dimen131
+\totwidth@=\dimen132
+\lineht@=\dimen133
+\@envbody=\toks23
+\multlinegap=\skip45
+\multlinetaggap=\skip46
+\mathdisplay@stack=\toks24
+LaTeX Info: Redefining \[ on input line 2844.
+LaTeX Info: Redefining \] on input line 2845.
+) ("C:\Users\shilk\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\xr.sty"
+Package: xr 2019/01/05 v5.04 eXternal References (DPC)
+)
+
+Package xr Warning: 
+No file main.aux
+LABELS NOT IMPORTED.
+ on input line 16.
+
+
+("C:\Users\shilk\AppData\Local\Programs\MiKTeX 2.9\tex/latex/enumitem\enumitem.
+sty"
+Package: enumitem 2019/02/04 v3.8 Customized lists
+\labelindent=\skip47
+\enit@outerparindent=\dimen134
+\enit@toks=\toks25
+\enit@inbox=\box31
+\enit@count@id=\count118
+\enitdp@description=\count119
+) (C:\Users\shilk\AppData\Local\MiKTeX\2.9\tex/latex/pscyr\pscyr.sty
+Package: pscyr 2002/07/04 v0.4d Cyrillic Type1 fonts as default
+)
+("C:\Users\shilk\AppData\Local\Programs\MiKTeX 2.9\tex/latex/titlesec\titlesec.
+sty"
+Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
+\ttl@box=\box32
+\beforetitleunit=\skip48
+\aftertitleunit=\skip49
+\ttl@plus=\dimen135
+\ttl@minus=\dimen136
+\ttl@toksa=\toks26
+\titlewidth=\dimen137
+\titlewidthlast=\dimen138
+\titlewidthfirst=\dimen139
+)
+No file main.aux.
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 43.
+LaTeX Font Info:    Try loading font information for T2A+cmr on input line 43.
+("C:\Users\shilk\AppData\Local\Programs\MiKTeX 2.9\tex/latex/cyrillic\t2acmr.fd
+"
+File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+)
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Try loading font information for OT1+ftm on input line 43.
+ (C:\Users\shilk\AppData\Local\MiKTeX\2.9\tex/latex/pscyr\ot1ftm.fd
+File: ot1ftm.fd 2001/12/09 Fontinst v1.914 font definitions for OT1/ftm.
+)
+LaTeX Font Info:    Try loading font information for T2A+ftm on input line 43.
+
+(C:\Users\shilk\AppData\Local\MiKTeX\2.9\tex/latex/pscyr\t2aftm.fd
+File: t2aftm.fd 2001/12/09 Fontinst v1.914 font definitions for T2A/ftm.
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(85.35826pt, 457.80486pt, 71.13188pt)
+* v-part:(T,H,B)=(56.9055pt, 681.15898pt, 56.9055pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=457.80486pt
+* \textheight=681.15898pt
+* \oddsidemargin=13.08827pt
+* \evensidemargin=13.08827pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+("C:\Users\shilk\AppData\Local\Programs\MiKTeX 2.9\tex/context/base\supp-pdf.mk
+ii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count120
+\scratchdimen=\dimen140
+\scratchbox=\box33
+\nofMPsegments=\count121
+\nofMParguments=\count122
+\everyMPshowfont=\toks27
+\MPscratchCnt=\count123
+\MPscratchDim=\dimen141
+\MPnumerator=\count124
+\makeMPintoPDFobject=\count125
+\everyMPtoPDFconversion=\toks28
+)
+("C:\Users\shilk\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-
+base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Users\shilk\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grfext.st
+y"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+\AtBeginShipoutBox=\box34
+Package hyperref Info: Link coloring OFF on input line 43.
+
+("C:\Users\shilk\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\nameref.s
+ty"
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+("C:\Users\shilk\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\gettitl
+estring.sty"
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count126
+)
+LaTeX Info: Redefining \ref on input line 43.
+LaTeX Info: Redefining \pageref on input line 43.
+LaTeX Info: Redefining \nameref on input line 43.
+\@outlinefile=\write3
+\openout3 = `main.out'.
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: End \AtBeginDocument code.
+\openout2 = `description.aux'.
+
+
+("C:/РџР°СЂР°Р»Р»РµР»СЊРЅС‹Рµ/РќРѕРІР°СЏ РјРµС‚РѕРґРёС‡РєР°\description.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 2--5
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--5
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--8
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--8
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--11
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--11
+
+ []
+
+<./images/ITMOLogo2.png, id=3, 980.91469pt x 167.12437pt>
+File: ./images/ITMOLogo2.png Graphic file (type png)
+<use ./images/ITMOLogo2.png>
+Package pdftex.def Info: ./images/ITMOLogo2.png  used on input line 14.
+(pdftex.def)             Requested size: 256.06456pt x 42.67862pt.
+LaTeX Font Info:    Try loading font information for OMS+ftm on input line 18.
+LaTeX Font Info:    No file OMSftm.fd. on input line 18.
+
+LaTeX Font Warning: Font shape `OMS/ftm/m/n' undefined
+(Font)              using `OMS/cmsy/m/n' instead on input line 18.
+
+) [1
+
+
+{C:/Users/shilk/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/РџР°СЂР°
+Р»Р»РµР»СЊРЅС‹Рµ/РќРѕРІР°СЏ РјРµС‚РѕРґРёС‡РєР°/images/ITMOLogo2.png>]
+\openout2 = `tableOfContents.aux'.
+
+
+("C:/РџР°СЂР°Р»Р»РµР»СЊРЅС‹Рµ/РќРѕРІР°СЏ РјРµС‚РѕРґРёС‡РєР°\tableOfContents.tex
+")
+\openout2 = `introduction.aux'.
+
+ ("C:/РџР°СЂР°Р»Р»РµР»СЊРЅС‹Рµ/РќРѕРІР°СЏ РјРµС‚РѕРґРёС‡РєР°\introduction.tex"
+Underfull \hbox (badness 10000) in paragraph at lines 2--4
+
+ []
+
+
+Overfull \hbox (8.01202pt too wide) in paragraph at lines 4--5
+\T2A/ftm/m/n/14.4 про-грам-ми-ро-ва-нии. Од-на-ко ме-то-ды па-рал-лель-но-го пр
+о-грам-ми-ро-ва-ния ощу-
+ []
+
+[2
+
+
+
+
+]
+Overfull \hbox (2.04291pt too wide) in paragraph at lines 10--11
+[]\T2A/ftm/bx/n/14.4 Использование небло-ки-ру-ю-щих ал-го-рит-мов \T2A/ftm/m/n
+/14.4 (lockless, lock-free, 
+ []
+
+) [3]
+\openout2 = `section1.aux'.
+
+ ("C:/РџР°СЂР°Р»Р»РµР»СЊРЅС‹Рµ/РќРѕРІР°СЏ РјРµС‚РѕРґРёС‡РєР°\section1.tex" ("C:
+/РџР°СЂР°Р»Р»РµР»СЊРЅС‹Рµ/РќРѕРІР°СЏ РјРµС‚РѕРґРёС‡РєР°\section1_1.tex"
+
+LaTeX Warning: Reference `graphPartOfMultiCoreProcessorFromYear:image' on page 
+4 undefined on input line 8.
+
+LaTeX Font Info:    Try loading font information for T2A+fer on input line 8.
+(C:\Users\shilk\AppData\Local\MiKTeX\2.9\tex/latex/pscyr\t2afer.fd
+File: t2afer.fd 2004/09/21 Fontinst v1.914 font definitions for T2A/fer.
+)
+<./images/graphPartOfMultiCoreProcessorFromYear.png, id=26, 793.46437pt x 414.0
+4688pt>
+File: ./images/graphPartOfMultiCoreProcessorFromYear.png Graphic file (type png
+)
+<use ./images/graphPartOfMultiCoreProcessorFromYear.png>
+Package pdftex.def Info: ./images/graphPartOfMultiCoreProcessorFromYear.png  us
+ed on input line 10.
+(pdftex.def)             Requested size: 457.80486pt x 238.89641pt.
+ [4
+
+
+]
+Overfull \hbox (7.74664pt too wide) in paragraph at lines 14--15
+\T2A/ftm/m/n/14.4 стой про-гноз рас-про-стра-нјн-но-сти мно-го-ядер-ных "на-сто
+ль-ных"процессоров
+ []
+
+) ("C:/РџР°СЂР°Р»Р»РµР»СЊРЅС‹Рµ/РќРѕРІР°СЏ РјРµС‚РѕРґРёС‡РєР°\section1_2.tex"
+[5 <C:/РџР°СЂР°Р»Р»РµР»СЊРЅС‹Рµ/РќРѕРІР°СЏ РјРµС‚РѕРґРёС‡РєР°/images/graphPartO
+fMultiCoreProcessorFromYear.png>]
+Overfull \hbox (10.68417pt too wide) in paragraph at lines 22--24
+[]\T2A/ftm/m/n/14.4 Компилятор фир-мы Oracle: solarisstudio -cc -O3 -xautopar -
+xloopinfo
+ []
+
+) ("C:/РџР°СЂР°Р»Р»РµР»СЊРЅС‹Рµ/РќРѕРІР°СЏ РјРµС‚РѕРґРёС‡РєР°\section1_3.tex"
+[6]
+
+LaTeX Warning: Reference `structAlgorithm:image' on page 7 undefined on input l
+ine 7.
+
+
+Overfull \hbox (2.22816pt too wide) in paragraph at lines 7--8
+\T2A/ftm/m/n/14.4 несколь-ко функ-ций мо-гут ожи-дать ре-зуль-та-та вы-пол-не-н
+ия преды-
+ []
+
+<./images/structAlgorithm.png, id=48, 562.35094pt x 146.04562pt>
+File: ./images/structAlgorithm.png Graphic file (type png)
+<use ./images/structAlgorithm.png>
+Package pdftex.def Info: ./images/structAlgorithm.png  used on input line 10.
+(pdftex.def)             Requested size: 457.80486pt x 118.89351pt.
+[7 <C:/РџР°СЂР°Р»Р»РµР»СЊРЅС‹Рµ/РќРѕРІР°СЏ РјРµС‚РѕРґРёС‡РєР°/images/structAlgo
+rithm.png>])
+("C:/РџР°СЂР°Р»Р»РµР»СЊРЅС‹Рµ/РќРѕРІР°СЏ РјРµС‚РѕРґРёС‡РєР°\section1_4.tex"
+<./images/AtomOperationExample1.png, id=55, 619.56468pt x 64.74188pt>
+File: ./images/AtomOperationExample1.png Graphic file (type png)
+<use ./images/AtomOperationExample1.png>
+Package pdftex.def Info: ./images/AtomOperationExample1.png  used on input line
+ 7.
+(pdftex.def)             Requested size: 457.80486pt x 47.83809pt.
+
+[8]
+<./images/AtomOperationExample2.png, id=61, 621.07031pt x 46.67438pt>
+File: ./images/AtomOperationExample2.png Graphic file (type png)
+<use ./images/AtomOperationExample2.png>
+Package pdftex.def Info: ./images/AtomOperationExample2.png  used on input line
+ 14.
+(pdftex.def)             Requested size: 457.80486pt x 34.40459pt.
+ [9 <C:/РџР°СЂР°Р»Р»РµР»СЊРЅС‹Рµ/РќРѕРІР°СЏ РјРµС‚РѕРґРёС‡РєР°/images/AtomOpera
+tionExample1.png>]
+<./images/AtomOperationExample3.png, id=67, 621.07031pt x 46.67438pt>
+File: ./images/AtomOperationExample3.png Graphic file (type png)
+<use ./images/AtomOperationExample3.png>
+Package pdftex.def Info: ./images/AtomOperationExample3.png  used on input line
+ 18.
+(pdftex.def)             Requested size: 457.80486pt x 34.40459pt.
+
+Overfull \hbox (9.84665pt too wide) in paragraph at lines 22--23
+[]\T2A/ftm/m/n/14.4 Особый слу-чай ато-мар-но-го из-ме-не-ния дан-ных - это из-
+ме-не-ние струк-
+ []
+
+)) [10 <C:/РџР°СЂР°Р»Р»РµР»СЊРЅС‹Рµ/РќРѕРІР°СЏ РјРµС‚РѕРґРёС‡РєР°/images/AtomOp
+erationExample2.png> <C:/РџР°СЂР°Р»Р»РµР»СЊРЅС‹Рµ/РќРѕРІР°СЏ РјРµС‚РѕРґРёС‡РєР°
+/images/AtomOperationExample3.png>]
+\openout2 = `section2.aux'.
+
+
+("C:/РџР°СЂР°Р»Р»РµР»СЊРЅС‹Рµ/РќРѕРІР°СЏ РјРµС‚РѕРґРёС‡РєР°\section2.tex"
+("C:/РџР°СЂР°Р»Р»РµР»СЊРЅС‹Рµ/РќРѕРІР°СЏ РјРµС‚РѕРґРёС‡РєР°\section2_1.tex"
+Overfull \hbox (2.50258pt too wide) in paragraph at lines 3--5
+[]\T2A/ftm/m/n/14.4 Для оцен-ки эф-фек-тив-но-сти па-рал-лель-ной про-грам-мы п
+ри-ня-то срав-
+ []
+
+
+Overfull \hbox (21.81544pt too wide) in paragraph at lines 9--11
+\T2A/ftm/m/n/14.4 ни-ма-ет-ся ука-за-ние опе-ра-ци-он-ной си-сте-ме за-пус-кать
+ ука-зан-ный по-ток/процесс
+ []
+
+
+Overfull \hbox (7.25374pt too wide) in paragraph at lines 11--12
+[]\T2A/ftm/m/n/14.4 Необходимость мо-ди-фи-ци-ро-вать ис-сле-ду-е-мую па-рал-ле
+ль-ную про-
+ []
+
+
+Overfull \hbox (0.21121pt too wide) in paragraph at lines 12--13
+\T2A/ftm/m/n/14.4 обыч-но ОС поз-во-ля-ет уста-нав-ли-вать аф-фин-ность толь-ко
+ для про-
+ []
+
+
+LaTeX Warning: Reference `VirtualBoxNumberCores:image' on page 11 undefined on 
+input line 14.
+
+<./images/VirtualBoxNumberCores.png, id=74, 660.21657pt x 420.82219pt>
+File: ./images/VirtualBoxNumberCores.png Graphic file (type png)
+<use ./images/VirtualBoxNumberCores.png>
+Package pdftex.def Info: ./images/VirtualBoxNumberCores.png  used on input line
+ 16.
+(pdftex.def)             Requested size: 457.80486pt x 291.8124pt.
+
+Overfull \hbox (22.3935pt too wide) in paragraph at lines 14--19
+\T2A/ftm/m/n/14.4 боль-шин-стве спе-ци-а-ли-зи-ро-ван-ных про-грамм (на-при-мер
+, VMWare, VirtualBox)
+ []
+
+
+Overfull \hbox (3.82991pt too wide) in paragraph at lines 14--19
+\T2A/ftm/m/n/14.4 есть воз-мож-ность "вы-де-лить"создаваемой вир-ту-аль-ной ма-
+шине не все при-
+ []
+
+[11
+
+
+]
+Overfull \hbox (3.04979pt too wide) in paragraph at lines 20--21
+[]\T2A/ftm/m/n/14.4 Недостатком опи-сан-но-го под-хо-да яв-ля-ют-ся на-клад-ные
+ рас-хо-ды вир-
+ []
+
+
+Overfull \hbox (3.48796pt too wide) in paragraph at lines 21--22
+[]\T2A/ftm/bx/n/14.4 Управление ко-ли-че-ством ни-тей. \T2A/ftm/m/n/14.4 При со
+-зда-нии па-рал-лель-ных про-
+ []
+
+[12 <C:/РџР°СЂР°Р»Р»РµР»СЊРЅС‹Рµ/РќРѕРІР°СЏ РјРµС‚РѕРґРёС‡РєР°/images/VirtualBo
+xNumberCores.png>]
+
+LaTeX Warning: Command \textellipsis invalid in math mode on input line 22.
+
+
+Overfull \hbox (1.5522pt too wide) in paragraph at lines 22--23
+[]\T2A/ftm/m/n/14.4 Эту осо-бен-ность па-рал-лель-ной про-грам-мы мож-но ис-пол
+ь-зо-вать для
+ []
+
+[13]
+Overfull \hbox (0.8992pt too wide) in paragraph at lines 39--40
+[]\T2A/ftm/bx/n/14.4 Метод Густавсона-Барсиса: \T2A/ftm/m/n/14.4 рас-счи-тать $
+\OML/cmm/m/it/14.4 V\OT1/cmr/m/n/14.4 (\OML/cmm/m/it/14.4 p\OT1/cmr/m/n/14.4 )$
+\T2A/ftm/m/n/14.4 , за-фик-си-ро-вав вре-
+ []
+
+) ("C:/РџР°СЂР°Р»Р»РµР»СЊРЅС‹Рµ/РќРѕРІР°СЏ РјРµС‚РѕРґРёС‡РєР°\section2_2.tex"
+[14]
+
+LaTeX Warning: Reference `AmdalTFromP:equation' on page 15 undefined on input l
+ine 18.
+
+
+LaTeX Warning: Reference `AmdalSFromP:equation' on page 15 undefined on input l
+ine 18.
+
+
+Overfull \hbox (3.54301pt too wide) in paragraph at lines 17--18
+\T2A/ftm/m/n/14.4 аль-но рас-па-рал-ле-ли-ва-е-мо-го ко-да, а вто-рое сла-га-е-
+мое  вре-мя ра-бо-ты нерас-
+ []
+
+[15]
+
+LaTeX Warning: Reference `GraphAmdalSFromP:image' on page 16 undefined on input
+ line 24.
+
+<./images/GraphAmdalSFromP.png, id=110, 603.0028pt x 363.60844pt>
+File: ./images/GraphAmdalSFromP.png Graphic file (type png)
+<use ./images/GraphAmdalSFromP.png>
+Package pdftex.def Info: ./images/GraphAmdalSFromP.png  used on input line 26.
+(pdftex.def)             Requested size: 457.80486pt x 276.05122pt.
+
+LaTeX Warning: Reference `parallelEffect:equation' on page 16 undefined on inpu
+t line 30.
+
+
+LaTeX Warning: Reference `AmdalLaw:equation' on page 16 undefined on input line
+ 30.
+
+[16 <C:/РџР°СЂР°Р»Р»РµР»СЊРЅС‹Рµ/РќРѕРІР°СЏ РјРµС‚РѕРґРёС‡РєР°/images/GraphAmda
+lSFromP.png>])
+("C:/РџР°СЂР°Р»Р»РµР»СЊРЅС‹Рµ/РќРѕРІР°СЏ РјРµС‚РѕРґРёС‡РєР°\section2_3.tex"
+
+LaTeX Warning: Reference `parallelAcceleration:equation' on page 17 undefined o
+n input line 3.
+
+
+LaTeX Warning: Reference `GustavsonWork:equation' on page 17 undefined on input
+ line 16.
+
+
+LaTeX Warning: Reference `GustavnsonWork:equation' on page 17 undefined on inpu
+t line 17.
+
+
+LaTeX Warning: Reference `GustavsonAcceleration:equation' on page 17 undefined 
+on input line 20.
+
+
+Overfull \hbox (3.62587pt too wide) in paragraph at lines 24--25
+[]\T2A/ftm/m/n/14.4 Приведјнное вы-ра-же-ние на-зы-ва-ет-ся \T2A/ftm/bx/n/14.4 
+за-ко-ном Густавсона-Барсиса\T2A/ftm/m/n/14.4 ,
+ []
+
+[17]) ("C:/РџР°СЂР°Р»Р»РµР»СЊРЅС‹Рµ/РќРѕРІР°СЏ РјРµС‚РѕРґРёС‡РєР°\section2_4.te
+x"
+Overfull \hbox (0.788pt too wide) in paragraph at lines 5--6
+[]\T2A/ftm/m/n/14.4 С це-лью ре-шить опи-сан-ную про-бле-му в неко-то-рых C-ком
+пиляторах
+ []
+
+
+Overfull \hbox (9.95203pt too wide) in paragraph at lines 5--6
+\T2A/ftm/m/n/14.4 (на-при-мер, gcc) бы-ли ре-а-ли-зо-ва-ны по-то-ко-без-опас-ны
+е (thread-safe, re-entrant)
+ []
+
+
+Overfull \hbox (1.20903pt too wide) in paragraph at lines 6--7
+\T2A/ftm/m/n/14.4 поль-зо-ва-на для из-ме-ре-ния вре-ме-ни вы-пол-не-ния мно-го
+-по-точ-ных про-грамм.
+ []
+
+
+Overfull \hbox (2.2147pt too wide) in paragraph at lines 7--8
+[]\T2A/ftm/m/n/14.4 В ито-ге ока-за-лось, что удо-вле-тво-ри-тель-но-го \T2A/ft
+m/m/it/14.4 кросс-платформенного
+ []
+
+[18] [19]
+<./images/OpenMPExampleTimeMeasurement.png, id=138, 858.95906pt x 249.18094pt>
+File: ./images/OpenMPExampleTimeMeasurement.png Graphic file (type png)
+<use ./images/OpenMPExampleTimeMeasurement.png>
+Package pdftex.def Info: ./images/OpenMPExampleTimeMeasurement.png  used on inp
+ut line 18.
+(pdftex.def)             Requested size: 457.80486pt x 132.81049pt.
+
+
+LaTeX Warning: Reference `OpenMPExpensesOnCreatingThreads:image' on page 20 und
+efined on input line 22.
+
+<./images/OpenMPExpensesOnCreatingThreads.png, id=139, 584.93532pt x 341.02406p
+t>
+File: ./images/OpenMPExpensesOnCreatingThreads.png Graphic file (type png)
+<use ./images/OpenMPExpensesOnCreatingThreads.png>
+Package pdftex.def Info: ./images/OpenMPExpensesOnCreatingThreads.png  used on 
+input line 24.
+(pdftex.def)             Requested size: 457.80486pt x 266.91353pt.
+[20 <C:/РџР°СЂР°Р»Р»РµР»СЊРЅС‹Рµ/РќРѕРІР°СЏ РјРµС‚РѕРґРёС‡РєР°/images/OpenMPExa
+mpleTimeMeasurement.png>])) [21 <C:/РџР°СЂР°Р»Р»РµР»СЊРЅС‹Рµ/РќРѕРІР°СЏ РјРµС‚Р
+ѕРґРёС‡РєР°/images/OpenMPExpensesOnCreatingThreads.png>]
+\openout2 = `section3.aux'.
+
+
+("C:/РџР°СЂР°Р»Р»РµР»СЊРЅС‹Рµ/РќРѕРІР°СЏ РјРµС‚РѕРґРёС‡РєР°\section3.tex"
+("C:/РџР°СЂР°Р»Р»РµР»СЊРЅС‹Рµ/РќРѕРІР°СЏ РјРµС‚РѕРґРёС‡РєР°\section3_1.tex"
+Overfull \hbox (7.6058pt too wide) in paragraph at lines 3--4
+\T2A/ftm/m/n/14.4 ство по-пу-ляр-ных ин-те-гри-ро-ван-ных сред раз-ра-бот-ки (I
+DE), на-при-мер: Visual
+ []
+
+) ("C:/РџР°СЂР°Р»Р»РµР»СЊРЅС‹Рµ/РќРѕРІР°СЏ РјРµС‚РѕРґРёС‡РєР°\section3_2.tex"
+[22
+
+
+]
+Overfull \hbox (4.62053pt too wide) in paragraph at lines 4--5
+[]\T2A/ftm/m/n/14.4 Получается, что несмот-ря на фор-маль-ную по-то-ко-без-опас
+-ность стан-
+ []
+
+
+Overfull \hbox (10.10832pt too wide) in paragraph at lines 5--7
+\T2A/ftm/m/n/14.4 на-зы-ва-ю-щих-ся "Ме-не-джер управ-ле-ния па-мя-тью (МУП)"(M
+emory Allocator),
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--9
+[]\T2A/ftm/m/n/14.4 tcmalloc: []$\T2A/fer/m/n/14.4 http : / / goog -[] perftool
+s\OML/cmm/m/it/14.4 :\T2A/fer/m/n/14.4 sourceforge\OML/cmm/m/it/14.4 :\T2A/fer/
+m/n/14.4 net /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--10
+[]\T2A/ftm/m/n/14.4 ptmalloc: []$\T2A/fer/m/n/14.4 http : / / www\OML/cmm/m/it/
+14.4 :\T2A/fer/m/n/14.4 malloc\OML/cmm/m/it/14.4 :\T2A/fer/m/n/14.4 de / malloc
+ / ptmalloc3 -[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--13
+[]\T2A/ftm/m/n/14.4 nedmalloc: []$\T2A/fer/m/n/14.4 http : / / www\OML/cmm/m/it
+/14.4 :\T2A/fer/m/n/14.4 nedprod\OML/cmm/m/it/14.4 :\T2A/fer/m/n/14.4 com / pro
+grams /
+ []
+
+[23]) ("C:/РџР°СЂР°Р»Р»РµР»СЊРЅС‹Рµ/РќРѕРІР°СЏ РјРµС‚РѕРґРёС‡РєР°\section3_3.te
+x"
+
+LaTeX Warning: Reference `compilerOpenMP:table' on page 24 undefined on input l
+ine 5.
+
+<./images/includeOpenMP.png, id=169, 724.20563pt x 32.37094pt>
+File: ./images/includeOpenMP.png Graphic file (type png)
+<use ./images/includeOpenMP.png>
+Package pdftex.def Info: ./images/includeOpenMP.png  used on input line 30.
+(pdftex.def)             Requested size: 457.80486pt x 20.46342pt.
+
+Overfull \hbox (8.00345pt too wide) in paragraph at lines 28--31
+[]\T2A/ftm/m/n/14.4 Помимо пре-про-цес-сор-ных ди-рек-тив, OpenMP опре-де-ля-ет
+ на-бор биб-
+ []
+
+[24]
+Overfull \hbox (51.59468pt too wide) in paragraph at lines 42--43
+\T2A/ftm/m/n/14.4 гий раз-ви-ва-ют-ся с обес-пе-че-ни-ем об-рат-ной сов-ме-сти-
+мо-сти (backward compatibility),
+ []
+
+[25 <C:/РџР°СЂР°Р»Р»РµР»СЊРЅС‹Рµ/РќРѕРІР°СЏ РјРµС‚РѕРґРёС‡РєР°/images/includeOp
+enMP.png>]
+Overfull \hbox (2.41154pt too wide) in paragraph at lines 46--47
+\T2A/ftm/m/n/14.4 ние мас-шта-би-ро-ва-ни-ем про-ис-хо-дит в ав-то-ма-ти-че-ско
+м ре-жи-ме, т.е. OpenMP
+ []
+
+[26]
+<./images/OpenMPExample1.png, id=186, 627.84563pt x 45.92157pt>
+File: ./images/OpenMPExample1.png Graphic file (type png)
+<use ./images/OpenMPExample1.png>
+Package pdftex.def Info: ./images/OpenMPExample1.png  used on input line 49.
+(pdftex.def)             Requested size: 457.80486pt x 33.48392pt.
+
+Overfull \hbox (0.70874pt too wide) in paragraph at lines 47--50
+[]\T2A/ftm/bx/n/14.4 Примеры OpenMP-программ. \T2A/ftm/m/n/14.4 Рас-смот-рим ни
+-же про-стей-шие при-
+ []
+
+<./images/OpenMPExample2.png, id=187, 765.6103pt x 173.89969pt>
+File: ./images/OpenMPExample2.png Graphic file (type png)
+<use ./images/OpenMPExample2.png>
+Package pdftex.def Info: ./images/OpenMPExample2.png  used on input line 54.
+(pdftex.def)             Requested size: 457.80486pt x 103.98503pt.
+[27 <C:/РџР°СЂР°Р»Р»РµР»СЊРЅС‹Рµ/РќРѕРІР°СЏ РјРµС‚РѕРґРёС‡РєР°/images/OpenMPExa
+mple1.png> <C:/РџР°СЂР°Р»Р»РµР»СЊРЅС‹Рµ/РќРѕРІР°СЏ РјРµС‚РѕРґРёС‡РєР°/images/Op
+enMPExample2.png>]
+<./images/OpenMPExample3.png, id=194, 767.11594pt x 243.91125pt>
+File: ./images/OpenMPExample3.png Graphic file (type png)
+<use ./images/OpenMPExample3.png>
+Package pdftex.def Info: ./images/OpenMPExample3.png  used on input line 60.
+(pdftex.def)             Requested size: 457.80486pt x 145.5663pt.
+<./images/OpenMPExample4.png, id=195, 767.11594pt x 173.14688pt>
+File: ./images/OpenMPExample4.png Graphic file (type png)
+<use ./images/OpenMPExample4.png>
+Package pdftex.def Info: ./images/OpenMPExample4.png  used on input line 65.
+(pdftex.def)             Requested size: 457.80486pt x 103.3341pt.
+ [28 <C:/РџР°СЂР°Р»Р»РµР»СЊРЅС‹Рµ/РќРѕРІР°СЏ РјРµС‚РѕРґРёС‡РєР°/images/OpenMPEx
+ample3.png>]
+<./images/OpenMPExample5.png, id=201, 765.6103pt x 127.22531pt>
+File: ./images/OpenMPExample5.png Graphic file (type png)
+<use ./images/OpenMPExample5.png>
+Package pdftex.def Info: ./images/OpenMPExample5.png  used on input line 69.
+(pdftex.def)             Requested size: 457.80486pt x 76.07562pt.
+<./images/OpenMPExample6.png, id=202, 765.6103pt x 149.8097pt>
+File: ./images/OpenMPExample6.png Graphic file (type png)
+<use ./images/OpenMPExample6.png>
+Package pdftex.def Info: ./images/OpenMPExample6.png  used on input line 73.
+(pdftex.def)             Requested size: 457.80486pt x 89.58018pt.
+<./images/OpenMPExample7.png, id=203, 767.86874pt x 150.5625pt>
+File: ./images/OpenMPExample7.png Graphic file (type png)
+<use ./images/OpenMPExample7.png>
+Package pdftex.def Info: ./images/OpenMPExample7.png  used on input line 77.
+(pdftex.def)             Requested size: 457.80486pt x 89.76613pt.
+ [29 <C:/РџР°СЂР°Р»Р»РµР»СЊРЅС‹Рµ/РќРѕРІР°СЏ РјРµС‚РѕРґРёС‡РєР°/images/OpenMPEx
+ample4.png> <C:/РџР°СЂР°Р»Р»РµР»СЊРЅС‹Рµ/РќРѕРІР°СЏ РјРµС‚РѕРґРёС‡РєР°/images/O
+penMPExample5.png> <C:/РџР°СЂР°Р»Р»РµР»СЊРЅС‹Рµ/РќРѕРІР°СЏ РјРµС‚РѕРґРёС‡РєР°/i
+mages/OpenMPExample6.png>]
+Overfull \hbox (3.12384pt too wide) in paragraph at lines 80--81
+[]\T2A/ftm/m/n/14.4 Любая пе-ре-мен-ная, объ-яв-лен-ная внут-ри па-рал-лель-ной
+ об-ла-сти, счи-
+ []
+
+<./images/OpenMPExample8.png, id=211, 765.6103pt x 173.14688pt>
+File: ./images/OpenMPExample8.png Graphic file (type png)
+<use ./images/OpenMPExample8.png>
+Package pdftex.def Info: ./images/OpenMPExample8.png  used on input line 83.
+(pdftex.def)             Requested size: 457.80486pt x 103.5349pt.
+<./images/OpenMPExample9.png, id=212, 767.11594pt x 195.73125pt>
+File: ./images/OpenMPExample9.png Graphic file (type png)
+<use ./images/OpenMPExample9.png>
+Package pdftex.def Info: ./images/OpenMPExample9.png  used on input line 87.
+(pdftex.def)             Requested size: 457.80486pt x 116.81245pt.
+[30 <C:/РџР°СЂР°Р»Р»РµР»СЊРЅС‹Рµ/РќРѕРІР°СЏ РјРµС‚РѕРґРёС‡РєР°/images/OpenMPExa
+mple7.png> <C:/РџР°СЂР°Р»Р»РµР»СЊРЅС‹Рµ/РќРѕРІР°СЏ РјРµС‚РѕРґРёС‡РєР°/images/Op
+enMPExample8.png>]
+<./images/OpenMPExample10.png, id=219, 765.6103pt x 77.53969pt>
+File: ./images/OpenMPExample10.png Graphic file (type png)
+<use ./images/OpenMPExample10.png>
+Package pdftex.def Info: ./images/OpenMPExample10.png  used on input line 92.
+(pdftex.def)             Requested size: 457.80486pt x 46.3656pt.
+<./images/OpenMPExample11.png, id=220, 766.36313pt x 219.82124pt>
+File: ./images/OpenMPExample11.png Graphic file (type png)
+<use ./images/OpenMPExample11.png>
+Package pdftex.def Info: ./images/OpenMPExample11.png  used on input line 96.
+(pdftex.def)             Requested size: 457.80486pt x 131.31683pt.
+ [31 <C:/РџР°СЂР°Р»Р»РµР»СЊРЅС‹Рµ/РќРѕРІР°СЏ РјРµС‚РѕРґРёС‡РєР°/images/OpenMPEx
+ample9.png> <C:/РџР°СЂР°Р»Р»РµР»СЊРЅС‹Рµ/РќРѕРІР°СЏ РјРµС‚РѕРґРёС‡РєР°/images/O
+penMPExample10.png>]
+<./images/OpenMPExample12.png, id=228, 766.36313pt x 79.04532pt>
+File: ./images/OpenMPExample12.png Graphic file (type png)
+<use ./images/OpenMPExample12.png>
+Package pdftex.def Info: ./images/OpenMPExample12.png  used on input line 102.
+(pdftex.def)             Requested size: 457.80486pt x 47.22008pt.
+
+! TeX capacity exceeded, sorry [input stack size=5000].
+\bbl@sh@select #1#2->\expandafter \ifx \csname #1
+                                                 @sh@#2@sel\endcsname \relax...
+l.104 ...єР° "+" РёСЃРїРѕР»СЊР·РѕРІР°С‚СЊ "*", "-"
+                                                  , "/". Р’Р°Р¶РЅРѕ, С‡С‚Рѕ ...
+If you really absolutely need more capacity,
+you can ask a wizard to enlarge me.
+
+ 
+Here is how much of TeX's memory you used:
+ 12551 strings out of 492946
+ 183758 string characters out of 3126267
+ 272464 words of memory out of 3000000
+ 16187 multiletter control sequences out of 15000+200000
+ 13874 words of font info for 31 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 5000i,14n,41p,1950b,590s stack positions out of 5000i,500n,10000p,200000b,50000s
+!  ==> Fatal error occurred, no output PDF file produced!
