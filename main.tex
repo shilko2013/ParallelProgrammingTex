@@ -24,11 +24,13 @@
 
 \graphicspath{ {./images/} }
 
-\pagestyle{empty}
-\parindent=1.5cm
+\pagestyle{plain} %for counting pages
+\setcounter{page}{2}
+
+\parindent=1.5cm %paragraph style
 %\linespread{1.3}
 
-\newcommand{\specialcell}[2][c]{%команда \specialcell для переноса слов в ячейке таблиц
+\newcommand{\specialcell}[2][c]{%command \specialcell for auto-carry in cells of table
   \begin{tabular}[#1]{@{}c@{}}#2\end{tabular}}
 
 \usepackage{titlesec}
@@ -38,11 +40,11 @@
 \titleformat*{\paragraph}{\large\bfseries}
 \titleformat*{\subparagraph}{\large\bfseries}
 
-%\sloppy разряженные строки с автопереносом
+%\sloppy sparse auto-carry strings
 
 \begin{document}
-	\include{description} %год протокола неверный!!!
-	\include{tableOfContents} %empty!!!
+	\include{description} %incorrect year!!!
+	\include{tableOfContents}
 	\include{introduction}
 	\include{section1}
 	\include{section2}
