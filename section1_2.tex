@@ -46,61 +46,19 @@
 		\end{center}
 	\end{table}
 	\parРассмотрим примеры функций, подходящие под определение сообщества Linux.
-	\begin{verbatim}int t;
-void swap(int *x, int *y)
-{
-t = *x;
-*x = *y;
-// hardware interrupt
-*y = t;
-}
-void interrupt_handler()
-{
-int x = 1, y = 2;
-swap(&x, &y);
-}\end{verbatim}
+	\begin{figure}[H]
+		\lstinputlisting{swapExample1.cpp}
+	\end{figure}
 	\parДанная функция не является не потокобезопасной, не реентерабельной, потому что все потоки вызывающие ее будут использовать общую переменную t. Если вызвать функцию внутри ее самой, то перезапишется значение t и родительская функция отработает неправильно. Попробуем исправить эти ошибки, объявив переменную t типа \textunderscore \textunderscore threadint.
-	\begin{verbatim}__threadint t;
-void swap(int *x, int *y)
-{
-t = *x;
-*x = *y;
-// hardware interrupt
-*y = t;
-}
-void interrupt_handler()
-{
-int x = 1, y = 2;
-swap(&x, &y);
-}\end{verbatim}
+	\begin{figure}[H]
+		\lstinputlisting{swapExample2.cpp}
+	\end{figure}
 	\parТеперь компилятор создаст копию переменной для каждого потока t и функция станет потокобезопасной, однако она все еще не реентерабельна по той же причине. Будем сохранять значение глобальной переменной t в начале функции и восстанавливать ее в конце.
-	\begin{verbatim}int t;
-void swap(int *x, int *y)
-{
-int s;
-s = t; // save global variable
-t = *x;
-*x = *y;
-// hardware interrupt
-*y = t;
-t = s; // restore global variable
-}
-void interrupt_handler()
-{
-int x = 1, y = 2;
-swap(&x, &y);
-}\end{verbatim}
+	\begin{figure}[H]
+		\lstinputlisting{swapExample3.cpp}
+	\end{figure}
 	\parНовая функция реентерабельна, но снова потоконебезопасна. Наконец, приведем пример стандартной и правильной реализации swap(), которая потокобезопасна и реентерабельна:
-	\begin{verbatim}void swap(int *x, int *y)
-{
-int t = *x;
-*x = *y;
-// hardware interrupt *y = t;
-}
-void interrupt_handler()
-{
-int x = 1, y = 2;
-swap(&x, &y);
-}\end{verbatim}
-
+	\begin{figure}[H]
+		\lstinputlisting{swapExample4.cpp}
+	\end{figure}
 }
