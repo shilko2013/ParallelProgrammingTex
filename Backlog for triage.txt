@@ -187,3 +187,15 @@ struct data {
 -Intel Integrated Performance Primitives
 01.10.2019. Балакшин П.В. Верно. Добавить.
 =fixed
+
+35. 29.10.2019. Алексей Мишенёв. Список литературы, 16 элемент "Википедия. Модель акторов". Некорректная ссылка
+=to fix
+
+36. 29.10.2019. Алексей Мишенёв. Заменить изображения с исходным кодом на, собственно, код:
+  * images/CAS.png
+  * images/OpenCLContextExample.png
+  * images/OpenCLKernelExample.png
+=to fix
+  
+37. 29.10.2019. Алексей Мишенёв. По-хорошему, стоит заменить вырвиглазные картинки по типу images/lockFreeQueue.png либо на *.svg, либо на TikZ
+=in discuss
