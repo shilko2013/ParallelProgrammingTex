@@ -1,4 +1,4 @@
-__threadint t;
+__thread int t;
 void swap(int *x, int *y) {
 	t = *x;
 	*x = *y;
